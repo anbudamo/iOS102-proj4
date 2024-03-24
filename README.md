@@ -49,7 +49,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was difficult to start the project and add additional implementation as the project got bigger and bigger. 
 
 ## License
 
